@@ -8,6 +8,9 @@ The objective is to support **data-driven decision-making** by presenting sales 
 
 ---
 
+## Dashboard Image
+<img width="1067" height="601" alt="image" src="https://github.com/user-attachments/assets/67ee0d65-f050-4b2f-be96-edd7cda95ff0" />
+
 ## 1. Introduction
 In today’s data-driven business environment, effective data analysis and visualization play a critical role in decision-making.  
 This project focuses on building an interactive **Sales Performance Dashboard** using Microsoft Excel.
@@ -116,12 +119,6 @@ This project highlights practical skills in:
 - Dashboard design
 
 It is relevant for roles in **business analysis and data analytics**.
-
----
-
-## 10. Dashboard Image
-<img width="1067" height="601" alt="image" src="https://github.com/user-attachments/assets/67ee0d65-f050-4b2f-be96-edd7cda95ff0" />
-
 
 ---
 
